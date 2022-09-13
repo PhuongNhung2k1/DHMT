@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\BTL_N9\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(43,17): error C2086: 'GLdouble z_nk': redefinition
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\BTL_N9\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(42): message : see declaration of 'z_nk'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\BTL_N9\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(171,25): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\BTL_N9\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(171,22): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\BTL_N9\BaiTH8_Hinhlapphuong_chieusang\OpenGL\main.cpp(171,19): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data

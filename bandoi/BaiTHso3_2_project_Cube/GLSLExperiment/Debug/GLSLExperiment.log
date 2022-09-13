@@ -1,0 +1,24 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(129,39): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(129,61): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(133,37): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(133,62): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(138,40): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(138,65): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(142,36): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(142,61): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(149,31): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(157,40): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(157,36): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(157,32): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(158,38): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(160,25): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(160,54): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(173,40): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(173,34): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(173,30): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(173,23): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(173,21): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(173,19): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+  GLSLExperiment.vcxproj -> D:\Do Hoa May Tinh\ThucHanh_BTVN\De chinh sua\LamLai\bandoi\BaiTHso3_2_project_Cube\Debug\GLSLExperiment.exe
